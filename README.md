@@ -5,10 +5,12 @@
 Bikeshare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+Analyses bike sharing data of 3 cities.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+wahington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
